@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="xAPI.Library.Base.BaseDao">
+    <Position X="6.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Base\BaseDao.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="xAPI.Library.Base.BaseEntity">
+    <Position X="8.25" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Class Name="xAPI.Library.Base.BaseEntity.ListError" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Base\BaseEntity.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAEQIAABAAAUAAAAAAAAAAACAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>Base\BaseEntity.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="xAPI.Library.Conexion.clsConexion">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAQgAAACAAAAAAAAIAA=</HashCode>
+      <FileName>Conexion\clsConexion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="xAPI.Library.Conexion.clsConexionWS">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>Conexion\clsConexionWS.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="xAPI.Library.General.clsCall">
+    <Position X="5.5" Y="2.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>General\clsCall.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="xAPI.Library.General.clsExtension">
+    <Position X="0.5" Y="2.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAAAAABAAAgAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>General\clsExtension.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="xAPI.Library.Security.clsEncryption">
+    <Position X="2.75" Y="2.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>General\clsEncryption.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="xAPI.Library.IDao">
+    <Position X="1" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAEAAAAAAAAAAAAAAAAAAAAEAAAAAAgAAgAAAAAA=</HashCode>
+      <FileName>Interface\IDao.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="xAPI.Library.IEntity">
+    <Position X="3" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interface\IEntity.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
